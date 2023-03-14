@@ -1,0 +1,2 @@
+# scriptvalidador
+VALIDOR DE CEDULAS
